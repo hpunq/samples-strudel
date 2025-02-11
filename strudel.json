@@ -1,3 +1,4 @@
 {
-    "sinatra": "sinatra-sample.wav"
+  "_base": "https://raw.githubusercontent.com/hpunq/samples-strudel/main/",
+  "fk": "instrumental/sinatra-sample.wav"
 }
