@@ -2,5 +2,6 @@
   "_base": "https://raw.githubusercontent.com/hpunq/samples-strudel/main/",
   "sinatra-sample": "instrumental/sinatra-sample.wav",
   "sinatra-bass": "instrumental/sinatra-bass.wav",
-  "blockhead-synth": "instrumental/blockhead-synth.mp3"
+  "blockhead-synth": "instrumental/blockhead-synth.mp3",
+  "sinatra-altbass": "instrumental/sinatra-altbass"
 }
