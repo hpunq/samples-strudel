@@ -16,5 +16,6 @@
   "em1": "instrumental/em-sample-1.wav",
   "em2": "instrumental/em-sample-2.wav",
   "aflat": "instrumental/aflat.wav",
-  "guitar-hit": "instrumental/guitar.hit.wav"
+  "guitar-hit": "instrumental/guitar.hit.wav",
+  "hit": "hit.mp3"
 }
