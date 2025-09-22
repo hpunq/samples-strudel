@@ -25,5 +25,6 @@
   "home": "instrumental/home.mp3",
   "papaji2": "instrumental/papaji2.wav",
   "knm": "instrumental/kann-nicht-mehr.wav",
-  "csd": "instrumental/chop-snare.wav"
+  "csd": "instrumental/chop-snare.wav",
+  "coin-cp": "instrumental/coin-clap.wav"
 }
