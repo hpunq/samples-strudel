@@ -37,5 +37,10 @@
   "open-book": "instrumental/open-book.wav",
   "bored-bass": "instrumental/bored-bass.wav",
   "wont-ya": "instrumental/wont-ya.wav",
-  "shake": "instrumental/SHAKE.wav"
+  "shake": "instrumental/SHAKE.wav",
+  "nola-clap": "instrumental/nola-clap.wav",
+  "nola-hat": "instrumental/nola-hat.wav",
+  "nola-sd": "instrumental/nola-sd.wav",
+  "nola-snare-clap": "instrumental/nola-snare-clap.wav",
+  "nola-splash": "instrumental/nola-splash.wav"
 }
