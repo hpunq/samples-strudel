@@ -29,5 +29,11 @@
   "coin-cp": "instrumental/coin-clap.wav",
   "lit-hh": "instrumental/lit-hat.wav",
   "mirror": "instrumental/mirror-mirror130.wav",
-  "cocaina": "instrumental/cocaina.wav"
+  "cocaina": "instrumental/cocaina.wav",
+  "reverse": "instrumental/reverse.mp3",
+  "cocaina-piano": "instrumental/cocaina-piano.mp3",
+  "ambience": "instrumental/ambience.mp3",
+  "eh": "instrumental/eh.mp3",
+  "open-book": "instrumental/open-book.wav",
+  "bored-bass": "instrumental/bored-bass.wav"
 }
