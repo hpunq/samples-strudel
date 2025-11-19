@@ -50,5 +50,6 @@
   "dp-drums": "instrumental/dp-drums.wav",
   "dp-bass": "instrumental/dp-bass.wav",
   "dp-vox": "instrumental/dp-vox92.wav",
-  "buzzcut": "instrumental/buzzcut-vox.wav"
+  "buzzcut": "instrumental/buzzcut-vox.wav",
+  "gpk": "instrumental/gpk.wav"
 }
