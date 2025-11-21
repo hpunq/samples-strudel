@@ -51,5 +51,7 @@
   "dp-bass": "instrumental/dp-bass.wav",
   "dp-vox": "instrumental/dp-vox92.wav",
   "buzzcut": "instrumental/buzzcut-vox.wav",
-  "gpk": "instrumental/gpk.wav"
+  "gpk": "instrumental/gpk.wav",
+  "badu": "instrumental/badu-beat.wav",
+  "badu2": "instrumental/badu-beat2.wav"
 }
