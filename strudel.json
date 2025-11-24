@@ -64,5 +64,6 @@
   "nola-loop": "drum-loops/nola-loop.wav",
   "nola-loop2": "drum-loops/nola-loop2.wav",
   "93loop": "drum-loops/93loop.wav",
-  "89loop": "drum-loops/89loop.wav"
+  "89loop": "drum-loops/89loop.wav",
+  "travis": "instrumental/travis-falling.mp3"
 }
