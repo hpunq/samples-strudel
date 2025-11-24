@@ -60,5 +60,9 @@
   "ballin": "instrumental/ballin.wav",
   "aint-ez": "instrumental/aint-ez.wav",
   "not-ez": "instrumental/not-ez.wav",
-  "toky0": "instrumental/ghoul-tokyo.wav"
+  "toky0": "instrumental/ghoul-tokyo.wav",
+  "nola-loop": "drum-loops/nola-loop.wav",
+  "nola-loop2": "drum-loops/nola-loop2.wav",
+  "93loop": "drum-loops/93loop.wav",
+  "89loop": "drum-loops/89loop.wav"
 }
