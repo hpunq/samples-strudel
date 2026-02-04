@@ -87,5 +87,7 @@
   "noise-fall": "instrumental/noise-fall.wav",
   "james": "instrumental/dark-end-iso.mp3",
   "sk_bd": "instrumental/sk_bd.wav",
-  "jk_sd": ["instrumental/jk_sd.wav", "instrumental/jk_sd2.wav"]
+  "jk_sd": ["instrumental/jk_sd.wav", "instrumental/jk_sd2.wav"],
+  "ak_bd": "instrumental/ak_bd.wav",
+  "ak_hh": "instrumental/ak_hh.wav"
 }
