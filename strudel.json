@@ -89,5 +89,6 @@
   "sk_bd": "instrumental/sk_bd.wav",
   "jk_sd": ["instrumental/jk_sd.wav", "instrumental/jk_sd2.wav"],
   "ak_bd": "instrumental/ak_bd.wav",
-  "ak_hh": "instrumental/ak_hh.wav"
+  "ak_hh": "instrumental/ak_hh.wav",
+  "phos_bd": "instrumental/phos_bd.wav"
 }
