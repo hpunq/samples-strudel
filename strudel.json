@@ -96,5 +96,6 @@
     "instrumental/wasabi-take1.wav",
     "instrumental/wasabi-take2.wav"
   ],
-  "pine": "instrumental/pine.wav"
+  "pine": "instrumental/pine.wav",
+  "foley17": "instrumental/foley17.wav"
 }
